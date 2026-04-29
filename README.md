@@ -25,7 +25,6 @@ This project is a UI test automation framework built for an e-commerce web appli
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 ```text
 E-Commerce-Playwright-Java-Framework
